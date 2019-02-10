@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 Added new file in first branch (modified locally)
-=======
 Added new file in first branch (modified)
->>>>>>> fd97a3c965d847c62a7a24775648a5dd7e1c4bc5
